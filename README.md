@@ -1,3 +1,3 @@
 # hello-world
-practice and tutorial \0
+practice and tutorial
 a bit about yourself
